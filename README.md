@@ -1,2 +1,2 @@
-# rajkumar_TF
-My notebooks in TensorFlow
+# rajkumar_tensorflow
+My notebooks in Machine Learning and Deep Learning using TensorFlow
